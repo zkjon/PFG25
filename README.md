@@ -23,7 +23,7 @@ En esta fase se lleva a cabo el desarrollo e integración de los sistemas diseñ
 ### Fase 4: Formación
 Se organiza una capacitación para los empleados y usuarios de la plataforma con el fin de garantizar una transición fluida hacia el uso del nuevo sistema. Esto incluye tutoriales, documentación y soporte técnico para resolver dudas.
 
-### Fase 5: Acompañamiento (1 año)
+### Fase 5: Acompañamiento
 Durante un año, se proporciona seguimiento y soporte continuo para garantizar el éxito de la implementación. Se recopilan comentarios de los usuarios, se corrigen errores identificados en tiempo real y se realizan mejoras incrementales en el sistema según sea necesario. Este acompañamiento asegura una adaptación efectiva y sostenible al nuevo sistema.
 
 ### Funcionalidades principales:
