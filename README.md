@@ -6,6 +6,26 @@ Bienvenido al proyecto **Bits and Chips**, desarrollado como parte de mi Trabajo
 ## Descripción del Proyecto
 Bits and Chips es una tienda online ficticia centrada en la venta de productos electrónicos y componentes informáticos. Los usuarios tienen acceso a varias funcionalidades clave que permiten explorar y realizar compras dentro de la plataforma. A continuación, se describen las características principales del sistema:
 
+## Fases del proyecto
+
+### Fase 0: Introducción al proyecto
+En esta fase inicial, se establecen los objetivos generales del proyecto y se definen los requisitos funcionales y técnicos. También se realiza una planificación detallada del cronograma y se identifican los recursos necesarios para llevar a cabo el proyecto.
+
+### Fase 1: Análisis de la empresa
+En esta etapa se estudian las necesidades específicas de la empresa Bits and Chips, incluyendo sus procesos actuales, su modelo de negocio y las áreas donde la digitalización puede aportar mayor valor. Esto incluye entrevistas con stakeholders y la recopilación de datos relevantes para un análisis profundo.
+
+### Fase 2: Digitalización de los procesos
+Se diseñan y desarrollan soluciones digitales para optimizar los procesos de la empresa. Esto incluye la creación del sistema web para gestionar compras, perfiles, y carritos. Se definen las funcionalidades principales y se crean prototipos para validar con los usuarios finales antes de su implementación.
+
+### Fase 3: Implementación de los procesos
+En esta fase se lleva a cabo el desarrollo e integración de los sistemas diseñados. Se implementa el frontend y backend de la aplicación web, así como la conexión con la base de datos. También se realizan pruebas unitarias y funcionales para asegurar el correcto funcionamiento del sistema.
+
+### Fase 4: Formación
+Se organiza una capacitación para los empleados y usuarios de la plataforma con el fin de garantizar una transición fluida hacia el uso del nuevo sistema. Esto incluye tutoriales, documentación y soporte técnico para resolver dudas.
+
+### Fase 5: Acompañamiento (1 año)
+Durante un año, se proporciona seguimiento y soporte continuo para garantizar el éxito de la implementación. Se recopilan comentarios de los usuarios, se corrigen errores identificados en tiempo real y se realizan mejoras incrementales en el sistema según sea necesario. Este acompañamiento asegura una adaptación efectiva y sostenible al nuevo sistema.
+
 ### Funcionalidades principales:
 1. **Inicio de sesión y registro:**
    - Los usuarios pueden registrarse en la plataforma creando una cuenta nueva.
