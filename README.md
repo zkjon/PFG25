@@ -78,7 +78,7 @@ El proyecto se ha desarrollado utilizando las siguientes tecnologías:
 4. Consulta tu perfil y el historial de pedidos en cualquier momento.
 
 ## Contribuciones
-
+He de agradecer a mi tutor de proyecto por su orientación y apoyo durante el desarrollo de este trabajo. Sus aportes han sido fundamentales para la estructuración y ejecución del proyecto, así como para superar los retos encontrados en el proceso.
 ## Autor
 - **Nombre del Autor:** [Jon Imanol Ruiz Hermoso]
 - **Contacto:** [focusyts@gmail.com]
