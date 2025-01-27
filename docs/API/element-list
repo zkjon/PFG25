@@ -1,0 +1,15 @@
+es.bitsandchips.beans
+es.bitsandchips.controllers
+es.bitsandchips.controllers.carrito
+es.bitsandchips.controllers.filtros
+es.bitsandchips.controllers.pedidos
+es.bitsandchips.controllers.usuario
+es.bitsandchips.DAO
+es.bitsandchips.DAO.Categoria
+es.bitsandchips.DAO.Pedido
+es.bitsandchips.DAO.Producto
+es.bitsandchips.DAO.Usuario
+es.bitsandchips.DAOFactory
+es.bitsandchips.events
+es.bitsandchips.filters
+es.bitsandchips.models
