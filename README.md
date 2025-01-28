@@ -43,6 +43,20 @@ Durante un año, se proporciona seguimiento y soporte continuo para garantizar e
 
 5. **Registro de pedidos:**
    - Los usuarios pueden consultar el historial de pedidos realizados en la plataforma, incluyendo detalles de cada transacción.
+# Cronograma del Proyecto
+
+| Fase                | Duración estimada | Fecha de inicio | Fecha de finalización |
+|---------------------|-------------------|-----------------|-----------------------|
+| **Fase 0**         | 2 semanas         | 2025-02-01      | 2025-02-14            |
+| **Fase 1**         | 4 semanas         | 2025-02-17      | 2025-03-16            |
+| **Fase 2**         | 6 semanas         | 2025-03-18      | 2025-04-29            |
+| **Fase 3**         | 8 semanas         | 2025-05-01      | 2025-06-25            |
+| **Fase 4**         | 3 semanas         | 2025-06-28      | 2025-07-18            |
+| **Fase 5**         | 12 meses          | 2025-07-21      | 2026-07-20            |
+
+## Notas
+- Las fechas son aproximadas y pueden ajustarse según necesidades específicas.
+- Las fases pueden solaparse en algunos casos para optimizar tiempos.
 
 ## Tecnologías Utilizadas
 El proyecto se ha desarrollado utilizando las siguientes tecnologías:
